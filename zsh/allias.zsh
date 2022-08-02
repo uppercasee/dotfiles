@@ -1,0 +1,5 @@
+alias sn='shutdown now'
+alias foliate='com.github.johnfactotum.Foliate'
+alias feh='feh -x'
+alias cozy='com.github.geigi.cozy'
+alias wps='flatpak run com.wps.Office'
